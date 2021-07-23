@@ -1,0 +1,8 @@
+// CONFIG
+PORT=3001
+
+// POSTGRESQL SEQUELIZE
+DB_USER= postgres
+DB_PASSWORD= password
+DB_HOST= localhost:5432
+DB_NAME= database
